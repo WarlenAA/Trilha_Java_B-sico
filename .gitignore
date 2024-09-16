@@ -21,5 +21,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 /.vscode
 settings.json
+=======
+replay_pid*
+>>>>>>> 35f0f6be23dd926a18f008882f1699246621e792
